@@ -1,2 +1,2 @@
-:HL["/MC2/_next/static/chunks/0ift1wx_cx8sf.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"C1wMtNwe70NpPjvgBL-f2"}
+:HL["https://angelruizusac.github.io/MC2/_next/static/chunks/0ift1wx_cx8sf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"09B53U0eillquhpoIw57w"}

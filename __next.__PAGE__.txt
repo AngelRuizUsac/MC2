@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[93496,["/MC2/_next/static/chunks/0cgmdvxxy9zh..js","/MC2/_next/static/chunks/0ix~7n~u02a7k.js"],"default"]
-3:I[39267,["/MC2/_next/static/chunks/0cgmdvxxy9zh..js"],"OutletBoundary"]
+2:I[93496,["https://angelruizusac.github.io/MC2/_next/static/chunks/0cgmdvxxy9zh..js","https://angelruizusac.github.io/MC2/_next/static/chunks/0ix~7n~u02a7k.js"],"default"]
+3:I[39267,["https://angelruizusac.github.io/MC2/_next/static/chunks/0cgmdvxxy9zh..js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contenido","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/MC2/_next/static/chunks/0ix~7n~u02a7k.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C1wMtNwe70NpPjvgBL-f2"}
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contenido","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"https://angelruizusac.github.io/MC2/_next/static/chunks/0ix~7n~u02a7k.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"09B53U0eillquhpoIw57w"}
 5:null
